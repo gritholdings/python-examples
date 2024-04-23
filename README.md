@@ -1,5 +1,3 @@
-# python-examples
-
 # Flask Text Processing Server
 
 This is a simple Flask server that provides text processing functionalities through a RESTful API. It allows clients to send JSON requests with a specified method and text input, and the server will process the text accordingly and return the result.
