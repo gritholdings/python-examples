@@ -2,6 +2,12 @@
 
 A repository showcasing examples of using Python.
 
-## Content
+## Contents
 
 [Retrieval-Augmented Generation (RAG)](rag/)
+
+| Name             |
+| ---------------- |
+| LangGraph        |
+| Embeddings       |
+| Function calling |
