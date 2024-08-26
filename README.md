@@ -1,7 +1,3 @@
-# Python Examples
-
-A repository showcasing examples of using Python.
-
 ## Contents
 
 Folder: [Retrieval-Augmented Generation (RAG)](rag/)
