@@ -1,3 +1,0 @@
-openai
-scikit-learn
-numpy
