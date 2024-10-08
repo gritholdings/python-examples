@@ -14,3 +14,4 @@ Folder: [Retrieval-Augmented Generation (RAG)](rag/)
 | [LangChain: Basic](rag/llm-agent-anthropic-langchain-basic.ipynb)      | LangChain, Anthropic, Chain of Thought |
 | [Embeddings](rag/rag-chatbot-openai-embeddings.ipynb)                  | OpenAI, Embeddings |
 | [Function calling](rag/rag-chatbot-openai-funccal.ipynb)               | OpenAI, Function Calling |
+| [LangSmith: Basic](rag/llm-agent-langsmith-basic.ipynb) | LangSmith, LangChain, OpenAI
