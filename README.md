@@ -1,6 +1,6 @@
 ## Contents
 
-Folder: [Retrieval-Augmented Generation (RAG)](rag/)
+For documentation, see [Documentation](https://gritholdings.gitbook.io)
 
 | File Name                  | Description |
 | --------------------- | ------------ |
