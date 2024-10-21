@@ -7,6 +7,7 @@ For documentation, see [Documentation](https://gritholdings.gitbook.io)
 | [LangChain: Planner-worker-solver architecture](rag/llm-agent-openai-langchain-plannerworkersolver.ipynb) | Build an agent that uses LangChain planner-worker-solver to handle more complex tasks such as reasoning |
 | [LangChain: RAG Local Embeddings](rag/rag-agent-anthropic-langchain-chroma-pdf.ipynb) | Build an agent that uses LangChain RAG Using Local Embeddings for PDF. (LangChain, Anthropic, Chroma, Local Embeddings, PDF) |
 | [LangChain: Information Gathering Conversational System](rag/llm-agent-anthropic-langchain-conversationalform.ipynb) | Build a chatbot system that engages in a natural conversation with the user, gather information, then save the information to a Python dictionary. (LangChain, Anthropic, Pydantic, Python Dictionary) |
+| [LangChain: Information Gathering Conversational System in HR](rag/llm-agent-openai-langchain-interview-agent.ipynb) | Build an AI interview agent designed for generating interview questions and gathering candidate information based on job requirements, company profile, and candidate resume. |
 | [LangGraph: with Tools](rag/rag-agent-anthropic-langgraph-tools.ipynb) | LangGraph, LangChain, Anthropic, Tools, Memory |
 | [LangChain: with Neo4j Graph](rag/rag-agent-anthropic-langchain-neo4j.ipynb) | Build a chatbot that integrates a Neo4j graph database with LangChain |
 | [LangChain: Evaluation - Basic](rag/llm-anthropic-langchain-evaluation-basic.ipynb) | LangChain, Anthropic, Evaluation |
